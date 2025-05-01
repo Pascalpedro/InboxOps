@@ -1,2 +1,2 @@
 # InboxOps
-A Fullstack Dockerized Contact App
+A Fullstack containerized Contact App
