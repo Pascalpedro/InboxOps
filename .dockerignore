@@ -1,0 +1,16 @@
+.git
+.gitignore
+*.env
+*.log
+*.tmp
+*.swp
+__pycache__
+.cache
+.pytest_cache
+*.pyc
+*.pyo
+*.pyd
+.Python
+.tox
+env 
+*~ 
