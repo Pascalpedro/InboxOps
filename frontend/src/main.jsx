@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import PedroOpsLanding from './PedroOpsLanding';
+import InboxOpsLanding from './InboxOpsLanding';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <PedroOpsLanding />
+    <InboxOpsLanding />
   </React.StrictMode>
 );
